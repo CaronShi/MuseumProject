@@ -1,3 +1,22 @@
+**#Install Instruction**
+To install the project dependencies, run the following command in your terminal:
+```bash
+npm install
+
+Or if you prefer yarn:
+```bash
+yarn
+
+Running the Application
+
+To start the development server, run:
+```bash
+npm run dev
+
+or
+```bash
+yarn dev
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

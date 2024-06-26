@@ -2,20 +2,21 @@
 To install the project dependencies, run the following command in your terminal:
 ```bash
 npm install
-
+```
 Or if you prefer yarn:
 ```bash
 yarn
-
+```
 Running the Application
 
 To start the development server, run:
 ```bash
 npm run dev
-
+```
 or
 ```bash
 yarn dev
+```
 
 # React + TypeScript + Vite
 
